@@ -175,11 +175,17 @@
     <Content Include="Themes\TheThemeMachine\images\attys.jpg" />
     <Content Include="Themes\TheThemeMachine\images\img11.jpg" />
     <Content Include="Themes\TheThemeMachine\images\leftphoto.jpg" />
-    <Content Include="Themes\TheThemeMachine\lol\lol.html" />
+    <Content Include="Themes\TheThemeMachine\Styles\5u84f48n.png" />
+    <Content Include="Themes\TheThemeMachine\Styles\AndrewsHouseBannerNew-psd.jpg" />
+    <Content Include="Themes\TheThemeMachine\Styles\attys.jpg" />
+    <Content Include="Themes\TheThemeMachine\Styles\img11.jpg" />
+    <Content Include="Themes\TheThemeMachine\Styles\leftphoto.jpg" />
     <Content Include="Themes\TheThemeMachine\Styles\lol.html" />
     <Content Include="Themes\TheThemeMachine\images\save the date blues.jpg" />
     <Content Include="Themes\TheThemeMachine\images\taxaide-psd.jpg" />
     <Content Include="Themes\TheThemeMachine\Styles\layout.css" />
+    <Content Include="Themes\TheThemeMachine\Styles\save the date blues.jpg" />
+    <Content Include="Themes\TheThemeMachine\Styles\taxaide-psd.jpg" />
     <Content Include="Themes\TheThemeMachine\Theme.png" />
     <Content Include="Themes\TheThemeMachine\Theme.txt" />
     <Content Include="Themes\TheThemeMachine\ThemeZonePreview.png" />
@@ -237,6 +243,8 @@
     <Content Include="Themes\Web.config" />
     <Content Include="Themes\TheThemeMachine\images\newsletter.pdf" />
     <Content Include="Themes\TheThemeMachine\images\Septnewsletter.pdf" />
+    <Content Include="Themes\TheThemeMachine\Styles\Septnewsletter.pdf" />
+    <Content Include="Themes\TheThemeMachine\Styles\newsletter.pdf" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>

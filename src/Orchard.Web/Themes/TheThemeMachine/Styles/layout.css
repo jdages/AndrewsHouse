@@ -1,4 +1,42 @@
-﻿@import url(layout.css);
+﻿#container {
+	border: thin solid #778999;
+	margin: 0px auto;
+	width: auto;
+}
+#masthead {
+	margin: 0 0 0 160px;
+	padding: 0em;
+}
+#navigation {
+	margin: 0;
+	padding: 0;
+}
+#content_container {
+	margin: 0 0 0 160px;
+}
+#column_left {
+	padding: 10px 0px 10px 10px;
+	vertical-align: top;
+	float: left;
+	width: 380px;
+	margin: 0px;
+}
+#column_right {
+	float: right;
+	margin: 0;
+	padding: 10px;
+	width: 150px;
+	vertical-align: top;
+}
+#image {
+	float: right;
+}
+#footer {
+	clear: both;
+	margin: 0;
+	padding: 5px;
+}
+
 .style1 {
 	text-align: center;
 }
@@ -59,8 +97,8 @@ body {
 	border-right: 3px solid #999999;
 	border-left: 3px solid #999999;
 	background-color: #000000;
-	background-image: url("../images/leftphoto.jpg");
-	background-repeat: no-repeat;
+	background-image: url("leftphoto.jpg");
+    background-repeat: no-repeat;
 	background-position: left top;
 	background-attachment: scroll;
 	border-bottom-width: 3px;
