@@ -1,4 +1,10 @@
 ﻿@import url(layout.css);
+.style1 {
+	text-align: center;
+}
+.style2 {
+	margin-left: 57;
+}
 .style2 {
 	text-align: left;
 }

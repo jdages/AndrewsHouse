@@ -170,7 +170,16 @@
     <Content Include="Themes\TheAdmin\Theme.txt" />
     <Content Include="Themes\Themes.csproj" />
     <Content Include="Themes\Themes.csproj.user" />
-    <Content Include="Themes\TheThemeMachine\Styles\Site.css" />
+    <Content Include="Themes\TheThemeMachine\images\5u84f48n.png" />
+    <Content Include="Themes\TheThemeMachine\images\AndrewsHouseBannerNew-psd.jpg" />
+    <Content Include="Themes\TheThemeMachine\images\attys.jpg" />
+    <Content Include="Themes\TheThemeMachine\images\img11.jpg" />
+    <Content Include="Themes\TheThemeMachine\images\leftphoto.jpg" />
+    <Content Include="Themes\TheThemeMachine\lol\lol.html" />
+    <Content Include="Themes\TheThemeMachine\Styles\lol.html" />
+    <Content Include="Themes\TheThemeMachine\images\save the date blues.jpg" />
+    <Content Include="Themes\TheThemeMachine\images\taxaide-psd.jpg" />
+    <Content Include="Themes\TheThemeMachine\Styles\layout.css" />
     <Content Include="Themes\TheThemeMachine\Theme.png" />
     <Content Include="Themes\TheThemeMachine\Theme.txt" />
     <Content Include="Themes\TheThemeMachine\ThemeZonePreview.png" />
@@ -226,6 +235,8 @@
     <Content Include="Themes\TheThemeMachine\Views\Pager.First.cshtml" />
     <Content Include="Themes\TheThemeMachine\Views\Pager.Last.cshtml" />
     <Content Include="Themes\Web.config" />
+    <Content Include="Themes\TheThemeMachine\images\newsletter.pdf" />
+    <Content Include="Themes\TheThemeMachine\images\Septnewsletter.pdf" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -292,7 +303,7 @@
           <AutoAssignPort>False</AutoAssignPort>
           <DevelopmentServerPort>30321</DevelopmentServerPort>
           <DevelopmentServerVPath>/OrchardLocal</DevelopmentServerVPath>
-          <IISUrl>http://localhost:30321/OrchardLocal</IISUrl>
+          <IISUrl>http://localhost:30321</IISUrl>
           <OverrideIISAppRootUrl>True</OverrideIISAppRootUrl>
           <IISAppRootUrl>http://localhost:30321</IISAppRootUrl>
           <NTLMAuthentication>False</NTLMAuthentication>
