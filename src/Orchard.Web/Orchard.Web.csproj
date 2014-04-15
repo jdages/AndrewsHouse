@@ -131,6 +131,16 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Global.asax" />
+    <Content Include="Media\Default\Page\5u84f48n.png" />
+    <Content Include="Media\Default\_Profiles\1338a03e\65bbe49f\5u84f48n.png" />
+    <Content Include="Media\Default\_Profiles\1338a03e\65bbe49f\AndrewsHouseBannerNew-psd.jpg" />
+    <Content Include="Media\Default\_Profiles\1338a03e\65bbe49f\attys.jpg" />
+    <Content Include="Media\Default\_Profiles\1338a03e\65bbe49f\img11.jpg" />
+    <Content Include="Media\Default\_Profiles\1338a03e\65bbe49f\leftphoto.jpg" />
+    <Content Include="Media\Default\_Profiles\1338a03e\65bbe49f\save%2520the%2520date%2520blues.jpg" />
+    <Content Include="Media\Default\_Profiles\1338a03e\65bbe49f\SaveTheDate.png" />
+    <Content Include="Media\Default\_Profiles\1338a03e\65bbe49f\taxaide-psd.jpg" />
+    <Content Include="Media\OrchardLogo.png" />
     <Content Include="Refresh.html" />
     <Content Include="Themes\SafeMode\Content\orchard.ico" />
     <Content Include="Themes\SafeMode\Styles\ie6.css" />
@@ -180,7 +190,6 @@
     <Content Include="Themes\TheThemeMachine\Styles\attys.jpg" />
     <Content Include="Themes\TheThemeMachine\Styles\img11.jpg" />
     <Content Include="Themes\TheThemeMachine\Styles\leftphoto.jpg" />
-    <Content Include="Themes\TheThemeMachine\Styles\lol.html" />
     <Content Include="Themes\TheThemeMachine\images\save the date blues.jpg" />
     <Content Include="Themes\TheThemeMachine\images\taxaide-psd.jpg" />
     <Content Include="Themes\TheThemeMachine\Styles\layout.css" />
@@ -245,6 +254,11 @@
     <Content Include="Themes\TheThemeMachine\images\Septnewsletter.pdf" />
     <Content Include="Themes\TheThemeMachine\Styles\Septnewsletter.pdf" />
     <Content Include="Themes\TheThemeMachine\Styles\newsletter.pdf" />
+    <Content Include="Themes\TheThemeMachine\Views\Parts.cshtml" />
+    <Content Include="Themes\TheThemeMachine\images\Web.config" />
+    <Content Include="Media\Default\RecipeJournal\2204d19d790043fda8e648e8bb916e6b" />
+    <Content Include="Media\Default\RecipeJournal\web.config" />
+    <Content Include="Media\web.config" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -311,9 +325,9 @@
           <AutoAssignPort>False</AutoAssignPort>
           <DevelopmentServerPort>30321</DevelopmentServerPort>
           <DevelopmentServerVPath>/OrchardLocal</DevelopmentServerVPath>
-          <IISUrl>http://localhost:30321</IISUrl>
+          <IISUrl>http://localhost:666</IISUrl>
           <OverrideIISAppRootUrl>True</OverrideIISAppRootUrl>
-          <IISAppRootUrl>http://localhost:30321</IISAppRootUrl>
+          <IISAppRootUrl>http://localhost:666</IISAppRootUrl>
           <NTLMAuthentication>False</NTLMAuthentication>
           <UseCustomServer>False</UseCustomServer>
           <CustomServerUrl>
