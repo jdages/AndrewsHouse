@@ -57,10 +57,10 @@
 	text-align: left;
 	margin-left: 57;
 }
-.style3 {
+/*.style3 {
 	text-align: right;
 	margin-left: 57;
-}
+}*/
 .style10 {
 	border-width: 0px;
 }
@@ -271,4 +271,9 @@ a:hover {
 }
 .style_italic {
 	font-style: italic;
+}
+#column_right > div > article > header > h1
+{
+	display:none;
+	height:0;
 }

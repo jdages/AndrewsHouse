@@ -185,6 +185,25 @@
     <Content Include="Themes\TheThemeMachine\images\attys.jpg" />
     <Content Include="Themes\TheThemeMachine\images\img11.jpg" />
     <Content Include="Themes\TheThemeMachine\images\leftphoto.jpg" />
+    <Content Include="Themes\TheThemeMachine\Media\Default\Page\5u84f48n.png" />
+    <Content Include="Themes\TheThemeMachine\Media\Default\Page\About\historical_picture.jpg" />
+    <Content Include="Themes\TheThemeMachine\Media\Default\Page\About\house-psd.jpg" />
+    <Content Include="Themes\TheThemeMachine\Media\Default\Page\About\img38.gif" />
+    <Content Include="Themes\TheThemeMachine\Media\Default\Page\AndrewsHouseBannerNew-psd.jpg" />
+    <Content Include="Themes\TheThemeMachine\Media\Default\Page\attys.jpg" />
+    <Content Include="Themes\TheThemeMachine\Media\Default\Page\img11.jpg" />
+    <Content Include="Themes\TheThemeMachine\Media\Default\Page\leftphoto.jpg" />
+    <Content Include="Themes\TheThemeMachine\Media\Default\Page\SaveTheDate.png" />
+    <Content Include="Themes\TheThemeMachine\Media\Default\Page\taxaide-psd.jpg" />
+    <Content Include="Themes\TheThemeMachine\Media\Default\_Profiles\1338a03e\65bbe49f\5u84f48n.png" />
+    <Content Include="Themes\TheThemeMachine\Media\Default\_Profiles\1338a03e\65bbe49f\AndrewsHouseBannerNew-psd.jpg" />
+    <Content Include="Themes\TheThemeMachine\Media\Default\_Profiles\1338a03e\65bbe49f\attys.jpg" />
+    <Content Include="Themes\TheThemeMachine\Media\Default\_Profiles\1338a03e\65bbe49f\img11.jpg" />
+    <Content Include="Themes\TheThemeMachine\Media\Default\_Profiles\1338a03e\65bbe49f\leftphoto.jpg" />
+    <Content Include="Themes\TheThemeMachine\Media\Default\_Profiles\1338a03e\65bbe49f\save%2520the%2520date%2520blues.jpg" />
+    <Content Include="Themes\TheThemeMachine\Media\Default\_Profiles\1338a03e\65bbe49f\SaveTheDate.png" />
+    <Content Include="Themes\TheThemeMachine\Media\Default\_Profiles\1338a03e\65bbe49f\taxaide-psd.jpg" />
+    <Content Include="Themes\TheThemeMachine\Media\OrchardLogo.png" />
     <Content Include="Themes\TheThemeMachine\Styles\5u84f48n.png" />
     <Content Include="Themes\TheThemeMachine\Styles\AndrewsHouseBannerNew-psd.jpg" />
     <Content Include="Themes\TheThemeMachine\Styles\attys.jpg" />
@@ -259,6 +278,12 @@
     <Content Include="Media\Default\RecipeJournal\2204d19d790043fda8e648e8bb916e6b" />
     <Content Include="Media\Default\RecipeJournal\web.config" />
     <Content Include="Media\web.config" />
+    <Content Include="Themes\TheThemeMachine\Media\Default\RecipeJournal\2204d19d790043fda8e648e8bb916e6b" />
+    <Content Include="Themes\TheThemeMachine\Media\Default\RecipeJournal\web.config" />
+    <Content Include="Themes\TheThemeMachine\Media\web.config" />
+    <Content Include="Themes\TheThemeMachine\Media\Default\Page\newsletter.pdf" />
+    <Content Include="Themes\TheThemeMachine\Media\Default\Page\Septnewsletter.pdf" />
+    <Content Include="Themes\TheThemeMachine\Media\Default\Page\About\newsletter.pdf" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>

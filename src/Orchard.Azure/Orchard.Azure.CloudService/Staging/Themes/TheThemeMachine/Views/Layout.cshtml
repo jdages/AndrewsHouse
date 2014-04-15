@@ -66,19 +66,13 @@
     </div>
     <!-- End Masthead -->
     <!-- Begin Navigation --><div id="navigation" style="width: 740px">
-        <ul>
-            <li style="width: 102px">
-                <strong>
-                    <a href="home.html">Home</a>
-                </strong>
-            </li>
-            <li style="width: 108px"><a href="about/about.html"><strong>About</strong></a></li>
-            <li style="width: 108px"><a href="programs/programs.html"><strong>Programs</strong></a></li>
-            <li style="width: 108px"><a href="room_rentals/room_rentals.html" style="width: 101px"><strong>Rentals</strong></a></li>
-            <li style="width: 108px"><a href="partners/partners.html"><strong>Partners</strong></a></li>
-            <li style="width: 90px; height: 27px;"><a href="support/support.html"><strong>Support</strong></a></li>
-            <li style="width: 91px"><a href="contact/contact.html"><strong>Contact</strong></a></li>
-        </ul>
+        @if (Model.Navigation != null)
+        {
+            <div id="layout-navigation" class="group">
+                @Zone(Model.Navigation)
+            </div>
+        }
+
     </div>
     <!-- End Navigation -->
     <!-- Begin content_container --><div id="content_container">
@@ -97,9 +91,7 @@
         <!-- End Left Column -->
         <!-- Begin Right Column --><div id="column_right" class="style2" style="width: 180px">
             <!-- #BeginEditable "sidebar" -->
-            <h3>Donations</h3> <p>Thank you for making a difference in Delaware County through your tax deductible donation to Andrews House. We appreciate your support.</p>
-            <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top"><input type='hidden' name='__token_timestamp__' value='1395413649'><input type='hidden' name='__token_val__' value='70eeb9bea75ce75016ba8301fa7f6af5'><input type='hidden' name='__token_timestamp__' value='1395413284'><input type='hidden' name='__token_val__' value='64bfb2838ff2611de923a1d5804a6763'><input type="hidden" name="cmd" value="_s-xclick"><input type="hidden" name="hosted_button_id" value="VU9ADBSPVFJR2"><input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!"><img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1"></form>
-
+                                       
             @if (Model.AsideSecond != null)
             {
                 @Zone(Model.AsideSecond)
@@ -114,7 +106,7 @@
         <!-- End Right Column -->
         <!-- Begin Footer --><div id="footer" style="height: 24px">
             <div id="copyright">
-                <p>Copyright © 2012 Andrews House. All Rights Reserved.</p>
+                <p>Copyright © @DateTime.Now.Date.Year Andrews House. All Rights Reserved.</p>
             </div>
         </div>
         <!-- End Footer -->
